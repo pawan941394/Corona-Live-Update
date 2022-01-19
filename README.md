@@ -9,4 +9,17 @@ The virus can spread from an infected person’s mouth or nose in small liquid p
    ![c](https://user-images.githubusercontent.com/63099276/150071631-9974a641-a681-4b04-9857-ec3f821b041d.png)
                  
 # Covid19 Web App
+            
+Feel free to use this app https://pawan941394.github.io/Corona-Live-Update/
 ![Screenshot 2022-01-19 110727](https://user-images.githubusercontent.com/63099276/150070611-d880d812-bbf7-43e9-b7fa-7c870c2df4d2.png)
+
+#Azure technology use in this web App 
+VISIUAL STUDIO CODE
+
+#what is visiual studio code 
+Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
+
+#Code 
+
+https://user-images.githubusercontent.com/63099276/150075484-c5b95126-43f5-4d08-bb50-72b6742df80b.mp4
+
