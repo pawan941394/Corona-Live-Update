@@ -19,7 +19,7 @@ VISIUAL STUDIO CODE
 #what is visiual studio code 
 Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
-#Code 
+# Code 
 
 https://user-images.githubusercontent.com/63099276/150075484-c5b95126-43f5-4d08-bb50-72b6742df80b.mp4
 
