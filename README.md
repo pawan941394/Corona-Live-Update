@@ -7,11 +7,7 @@ The best way to prevent and slow down transmission is to be well informed about 
 The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These particles range from larger respiratory droplets to smaller aerosols. It is important to practice respiratory etiquette, for example by coughing into a flexed elbow, and to stay home and self-isolate until you recover if you feel unwell.   
 
    ![c](https://user-images.githubusercontent.com/63099276/150071631-9974a641-a681-4b04-9857-ec3f821b041d.png)
-                 
-# Covid19 Web App
-            
-Feel free to use this app https://covid19cases.z13.web.core.windows.net/
-![Screenshot 2022-01-19 110727](https://user-images.githubusercontent.com/63099276/150070611-d880d812-bbf7-43e9-b7fa-7c870c2df4d2.png)
+  
 
 #Azure technology use in this web App 
               ![image18](https://user-images.githubusercontent.com/63099276/150970915-14ef7c25-de2b-4bf0-a724-4af1da4a2f48.png)
@@ -24,6 +20,13 @@ VISIUAL STUDIO CODE
 
 #what is visiual studio code 
 Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
+
+
+               
+# Covid19 Web App
+            
+Feel free to use this app https://covid19cases.z13.web.core.windows.net/
+![Screenshot 2022-01-19 110727](https://user-images.githubusercontent.com/63099276/150070611-d880d812-bbf7-43e9-b7fa-7c870c2df4d2.png)
 
 # Code 
 
