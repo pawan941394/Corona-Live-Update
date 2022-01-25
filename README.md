@@ -18,7 +18,7 @@ Feel free to use this app https://covid19cases.z13.web.core.windows.net/
 
 Microsoft Azure Storage Services 
 
-#We have used Microsoft azure service to host this app . Microsoft azure is very important for this without this we can't host this.
+We have used Microsoft azure service to host this app . Microsoft azure is very important for this without this we can't host this.
 
 VISIUAL STUDIO CODE
 
