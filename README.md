@@ -10,10 +10,16 @@ The virus can spread from an infected person’s mouth or nose in small liquid p
                  
 # Covid19 Web App
             
-Feel free to use this app https://pawan941394.github.io/Corona-Live-Update/
+Feel free to use this app https://covid19cases.z13.web.core.windows.net/
 ![Screenshot 2022-01-19 110727](https://user-images.githubusercontent.com/63099276/150070611-d880d812-bbf7-43e9-b7fa-7c870c2df4d2.png)
 
 #Azure technology use in this web App 
+              ![image18](https://user-images.githubusercontent.com/63099276/150970915-14ef7c25-de2b-4bf0-a724-4af1da4a2f48.png)
+
+Microsoft Azure Storage Services 
+
+#We have used Microsoft azure service to host this app . Microsoft azure is very important for this without this we can't host this.
+
 VISIUAL STUDIO CODE
 
 #what is visiual studio code 
